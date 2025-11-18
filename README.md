@@ -106,6 +106,8 @@ return [{
     ) / 5
 }];
 ```
+---
+
 ### 6. Eligibility Check
 A simple If Node checks whether:
 ```
@@ -142,3 +144,18 @@ Total Average Marks > 70
 - View immediate eligibility results
 
 ---
+
+## 🎯 Use Cases
+- College internal assessment systems
+- Automated month-end evaluation
+- Training institutes evaluating student progress
+- Instant eligibility/deligibility checks
+
+---
+
+## 📹 Demo Video
+
+👉 **Watch the full workflow demo here:**  
+*(Add your video link, YouTube URL, or MP4 file path below)*
+
+<img width="1919" height="1044" alt="Screenshot 2025-11-18 154145" src="https://github.com/user-attachments/assets/925ebab1-f498-4146-b088-49e2d711e230" />
