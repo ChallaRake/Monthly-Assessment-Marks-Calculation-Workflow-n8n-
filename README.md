@@ -117,9 +117,9 @@ Total Average Marks > 70
 ### 7. Final Output
 ✔️ **Eligible**
 Displays:
-🎉 Congratulations {Name}, You are eligible for the placement drive.
+- 🎉 Congratulations {Name}, You are eligible for the placement drive.
 
 ⚠️ **Not Eligible**
 Displays:
-Sorry {Name}, you're not eligible. Please focus on modules with lower marks.
+- Sorry {Name}, you're not eligible. Please focus on modules with lower marks.
 
