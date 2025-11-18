@@ -91,8 +91,11 @@ return [{
         _items[0]["json"]['Power BI'] +
         _items[0]["json"]["Adv_Stats"]
     ) / 5
-}];
+}];```
 
+---
+
+### 5. **Average Marks Calculation**
 #### DS Calculation Code
 ```python
 return [{
@@ -103,5 +106,5 @@ return [{
         _items[0]["json"]["NLP"] +
         _items[0]["json"]["GenAI"]
     ) / 5
-}];
+}];```
 
