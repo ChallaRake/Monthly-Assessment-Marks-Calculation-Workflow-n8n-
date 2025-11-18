@@ -82,7 +82,7 @@ The DS student enters marks for:
 ### 5. **Average Marks Calculation**
 
 #### DA Calculation Code
-```python
+\`\`\`
 return [{
     "Total Average Marks": (
         _items[0]["json"]["Python"] +
@@ -91,11 +91,8 @@ return [{
         _items[0]["json"]['Power BI'] +
         _items[0]["json"]["Adv_Stats"]
     ) / 5
-}];```
+}];\`\`\`
 
----
-
-### 5. **Average Marks Calculation**
 #### DS Calculation Code
 ```python
 return [{
