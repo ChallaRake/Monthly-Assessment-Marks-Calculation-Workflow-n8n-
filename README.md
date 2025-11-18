@@ -114,6 +114,8 @@ Total Average Marks > 70
 - True → Eligible
 - False → Not Eligible
 
+---
+
 ### 7. Final Output
 ✔️ **Eligible**
 ##### Displays:
@@ -123,3 +125,20 @@ Total Average Marks > 70
 ##### Displays:
 - Sorry {Name}, you're not eligible. Please focus on modules with lower marks.
 
+---
+
+## 🛠️ How to Use
+1️⃣ **Import into n8n**
+- Go to n8n → Workflows → Import
+- Select the provided JSON file
+
+2️⃣ **Activate the Workflow**
+- Ensure the workflow is set to Active so form trigger URLs function properly.
+
+3️⃣ **Share Form URL**
+##### Users can:
+- Enter their details
+- Submit marks
+- View immediate eligibility results
+
+---
