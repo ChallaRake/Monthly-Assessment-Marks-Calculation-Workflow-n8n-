@@ -92,3 +92,16 @@ return [{
         _items[0]["json"]["Adv_Stats"]
     ) / 5
 }];
+
+#### DS Calculation Code
+```python
+return [{
+    "Total Average Marks": (
+        _items[0]["json"]["ML"] +
+        _items[0]["json"]["ANN"] +
+        _items[0]["json"]["CNN"] +
+        _items[0]["json"]["NLP"] +
+        _items[0]["json"]["GenAI"]
+    ) / 5
+}];
+
