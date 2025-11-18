@@ -106,4 +106,20 @@ return [{
     ) / 5
 }];
 ```
+### 6. Eligibility Check
+A simple If Node checks whether:
+```
+Total Average Marks > 70
+```
+- True → Eligible
+- False → Not Eligible
+
+### 7. Final Output
+✔️ **Eligible**
+Displays:
+🎉 Congratulations {Name}, You are eligible for the placement drive.
+
+⚠️ **Not Eligible**
+Displays:
+Sorry {Name}, you're not eligible. Please focus on modules with lower marks.
 
