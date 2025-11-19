@@ -156,6 +156,6 @@ Total Average Marks > 70
 ## 📹 Demo Video
 
 👉 **Watch the full workflow demo here:**  
-[*(Add your video link, YouTube URL, or MP4 file path below)*](https://www.linkedin.com/posts/challa-rakesh-reddy_n8n-automation-dataengineering-activity-7396508474605490176-gDXO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7NTjAB5LIcCGe6w75x6giyS2sV95rQD14)
+[*Monthly-Assessment-Marks-Calculation-Automation*](https://www.linkedin.com/posts/challa-rakesh-reddy_n8n-automation-dataengineering-activity-7396508474605490176-gDXO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7NTjAB5LIcCGe6w75x6giyS2sV95rQD14)
 
 <img width="1919" height="1044" alt="Screenshot 2025-11-18 154145" src="https://github.com/user-attachments/assets/925ebab1-f498-4146-b088-49e2d711e230" />
